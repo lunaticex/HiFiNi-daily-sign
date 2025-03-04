@@ -17,7 +17,7 @@ HiFiNi-音乐磁场每日自动签到-无需服务器部署
 ```
 document.cookie
 ```
-
+1
 ##### 方式二 控制台-网络 ，手动获取
 
 ![https://cdn.jsdelivr.net/gh/Xramas/Repository@master/files/2023/1/30/3c4548901088e325a422991c6f71db4b.png](https://cdn.jsdelivr.net/gh/Xramas/Repository@master/files/2023/1/30/3c4548901088e325a422991c6f71db4b.png)
